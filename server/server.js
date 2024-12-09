@@ -19,6 +19,18 @@ const questions = [
     options: ["Paris", "Berlin", "Madrid", "Rome"],
     answer: "Paris",
   },
+  {
+    id: 3,
+    question: "Capital of India?",
+    options: ["Mumbai", "Delhi", "Chennai", "Kolkata"],
+    answer: "Delhi",
+  },
+  {
+    id: 4,
+    question: "What is 25*5",
+    options: ["126", "125", "127", "135"],
+    answer: "125",
+  },
   // Add more questions
 ];
 
